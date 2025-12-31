@@ -1,0 +1,21 @@
+{
+  "name": "MIMI",
+  "symbol": "MIMI",
+  "description": "this is a test",
+  "image": "https://raw.githubusercontent.com/miaodotarmy/tst3-12/gh-pages/public/token-image.png",
+  "properties": {
+    "twitter": "https://x.com/teste",
+    "website": "https://miaodotarmy.github.io/tst3-12/"
+  },
+  "attributes": [
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/teste"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://miaodotarmy.github.io/tst3-12/"
+    }
+  ],
+  "external_url": "https://miaodotarmy.github.io/tst3-12/"
+}
